@@ -1,0 +1,7 @@
+{
+  "name": "polymer-form",
+  "short_name": "polymer-form",
+  "description": "Testing out polymer&#39;s form abilities",
+  "start_url": "/",
+  "display": "standalone"
+}
